@@ -1,0 +1,11 @@
+export { default as BagTick2 } from "./BagTick2";
+export { default as CalendarTick } from "./CalendarTick";
+export { default as ClipboardTick } from "./ClipboardTick";
+export { default as Dashboard } from "./Dashboard";
+export { default as EmptyWallet } from "./EmptyWallet";
+export { default as NotificationBing } from "./NotificationBing";
+export { default as Question } from "./Question";
+export { default as SearchNormal } from "./SearchNormal";
+export { default as Setting2 } from "./Setting2";
+export { default as Sms } from "./Sms";
+export { default as Vector } from "./Vector";
